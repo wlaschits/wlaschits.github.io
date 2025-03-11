@@ -31,8 +31,7 @@ jobs:
         run: |
           gem install bundler
           bundle config set path 'vendor/bundle'
-          bundle install
-
+          bundle install --jobs 4 --retry 3
 
 
       - name: Setup Pages
