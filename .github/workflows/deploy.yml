@@ -27,11 +27,14 @@ jobs:
           ruby-version: '3.0'  # Change from 3.1 to 3.0
           bundler-cache: false  # Disable cache temporarily
 
-      - name: Install Dependencies
+      - name: Clean Install Dependencies
         run: |
           gem install bundler
-          bundle update --all
-          bundle install
+          bundle config unset path
+          bundle config set deployment 'false'
+          rm -rf vendor/bundle
+          bundle install --no-cache --no-prune --verbose
+
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
