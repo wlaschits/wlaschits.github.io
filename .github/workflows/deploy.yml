@@ -31,8 +31,10 @@ jobs:
         run: |
           gem install bundler
           bundle config set path 'vendor/bundle'
-          bundle lock --add-platform x86_64-linux
           bundle install
+          git add Gemfile.lock
+          git commit -m "Auto-generate Gemfile.lock"
+          git push origin main || echo "No changes to commit"
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
