@@ -31,8 +31,8 @@ jobs:
         run: |
           gem install bundler
           bundle config set path 'vendor/bundle'
-          bundle install --jobs 4 --retry 3
-
+          bundle lock --add-platform x86_64-linux
+          bundle install
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
