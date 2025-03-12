@@ -12,6 +12,7 @@
         async function loadModel() {
             const response = await fetch('model_data.json');
             modelData = await response.json();
+            console.log(modelData);
         }
 
         function predictSuccess() {
