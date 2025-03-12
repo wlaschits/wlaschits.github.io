@@ -11,6 +11,7 @@
 
         async function loadModel() {
             const response = await fetch('model_data.json');
+            console.log("Response here");
             modelData = await response.json();
             console.log(modelData);
         }
