@@ -56,8 +56,9 @@
                 let scaledValue = (value - mean) / std;
 
                 // Prevent extremely small numbers affecting predictions
-                if (Math.abs(scaledValue) < 1e-3) scaledValue = scaledValue * 1e3;  
+                if (Math.abs(scaledValue) < 1e-8) scaledValue = scaledValue * 1e8;  
                 else if (Math.abs(scaledValue) < 1e-6) scaledValue = scaledValue * 1e6;
+                else if (Math.abs(scaledValue) < 1e-3) scaledValue = scaledValue * 1e3;  
 
                 inputFeatures.push(scaledValue);
             });
