@@ -50,7 +50,14 @@
                 // Apply the same scaling as in Python
                 let mean = modelData.scaler_mean[index];
                 let std = modelData.scaler_std[index];
+
+                if (std === 0) std = 1;  // Prevent division by zero
+
                 let scaledValue = (value - mean) / std;
+
+                // Prevent extremely small numbers affecting predictions
+                if (Math.abs(scaledValue) < 1e-3) scaledValue = 0;  
+
                 inputFeatures.push(scaledValue);
             });
     
