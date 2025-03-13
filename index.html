@@ -24,7 +24,8 @@
                 const inputFields = document.querySelectorAll(".input-feature");
                 inputFields.forEach((input, index) => {
                     if (modelData.coefficients[index] !== undefined) {
-                        console.log("Setting default value for feature:", modelData.features[index]); // Debugging line
+                        console.log("Setting default value for feature:", modelData.coefficients[index]);
+                        console.log("Setting default value for feature:", modelData.coefficients[index].toFixed(2));
                         input.value = modelData.coefficients[index].toFixed(2); // Set default values
                     }
                 });
