@@ -8,31 +8,37 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.min.js"></script>
     <script>
         let modelData;
-
+    
         async function loadModel() {
             const response = await fetch('model_data.json');
             modelData = await response.json();
         }
-
+    
         function predictSuccess() {
             let inputFeatures = [];
             document.querySelectorAll(".input-feature").forEach(input => {
                 inputFeatures.push(parseFloat(input.value) || 0);
             });
-
+    
+            if (!modelData || !modelData.coefficients || !modelData.intercept) {
+                document.getElementById("prediction").innerText = "Error: Model data not loaded.";
+                return;
+            }
+    
             let coefficients = modelData.coefficients;
             let intercept = modelData.intercept;
             let prediction = intercept;
-
+    
             for (let i = 0; i < coefficients.length; i++) {
                 prediction += coefficients[i] * inputFeatures[i];
             }
-
+    
+            prediction = Math.max(0, Math.min(1, prediction)); // Ensure probability is between 0 and 1
             document.getElementById("prediction").innerText = `Predicted Success Probability: ${(prediction * 100).toFixed(2)}%`;
         }
-
+    
         window.onload = loadModel;
-    </script>
+    </script>    
 </head>
 <body class="bg-light">
     <div class="container mt-5">

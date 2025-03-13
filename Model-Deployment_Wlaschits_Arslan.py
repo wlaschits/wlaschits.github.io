@@ -48,6 +48,7 @@ with open("linear_regression_model.pkl", "wb") as f:
 
 # Save model coefficients for frontend usage
 model_data = {
+    "features": X.columns.tolist(),  # Save feature names
     "coefficients": model.coef_.tolist(),
     "intercept": model.intercept_
 }
