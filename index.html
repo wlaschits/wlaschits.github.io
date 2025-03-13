@@ -61,6 +61,7 @@
             let prediction = intercept;
     
             for (let i = 0; i < coefficients.length; i++) {
+                console.log("Coefficient:", coefficients[i], "Feature:", inputFeatures[i], "Multi:", coefficients[i] * inputFeatures[i]);
                 prediction += coefficients[i] * inputFeatures[i];
             }
 
