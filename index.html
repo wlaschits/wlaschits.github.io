@@ -71,6 +71,8 @@
     
             for (let i = 0; i < coefficients.length; i++) {
                 console.log("Coefficient:", coefficients[i], "Feature:", inputFeatures[i], "Multi:", coefficients[i] * inputFeatures[i]);
+                if (coefficients[i] == undefined || inputFeatures[i] == undefined) continue;
+                
                 prediction += coefficients[i] * inputFeatures[i];
             }
 
