@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/97918946841d416387bc49b4a88fba90/artifacts
+end_time: 1742053429252
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 97918946841d416387bc49b4a88fba90
+run_name: orderly-carp-418
+run_uuid: 97918946841d416387bc49b4a88fba90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053422284
+status: 3
+tags: []
+user_id: felix

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/482773f0db3846ecac955015482b30ce/artifacts
+end_time: 1742052979999
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 482773f0db3846ecac955015482b30ce
+run_name: abrasive-penguin-471
+run_uuid: 482773f0db3846ecac955015482b30ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052979961
+status: 3
+tags: []
+user_id: felix

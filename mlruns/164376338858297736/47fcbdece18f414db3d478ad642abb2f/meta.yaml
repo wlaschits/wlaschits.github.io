@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/47fcbdece18f414db3d478ad642abb2f/artifacts
+end_time: 1742051164449
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 47fcbdece18f414db3d478ad642abb2f
+run_name: nosy-lamb-704
+run_uuid: 47fcbdece18f414db3d478ad642abb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742051164409
+status: 4
+tags: []
+user_id: felix

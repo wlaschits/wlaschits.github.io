@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/ee4e346e4bac49f9b71f257baaea7501/artifacts
+end_time: 1742053279602
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: ee4e346e4bac49f9b71f257baaea7501
+run_name: dazzling-cat-407
+run_uuid: ee4e346e4bac49f9b71f257baaea7501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053275262
+status: 3
+tags: []
+user_id: felix

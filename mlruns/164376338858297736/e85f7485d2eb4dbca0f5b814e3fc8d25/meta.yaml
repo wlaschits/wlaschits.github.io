@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/e85f7485d2eb4dbca0f5b814e3fc8d25/artifacts
+end_time: 1742053321111
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: e85f7485d2eb4dbca0f5b814e3fc8d25
+run_name: kindly-hound-365
+run_uuid: e85f7485d2eb4dbca0f5b814e3fc8d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053314673
+status: 3
+tags: []
+user_id: felix

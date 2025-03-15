@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/a002a536316244478620852e7fcc5942/artifacts
+end_time: 1742053480241
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: a002a536316244478620852e7fcc5942
+run_name: wistful-horse-23
+run_uuid: a002a536316244478620852e7fcc5942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053473879
+status: 3
+tags: []
+user_id: felix

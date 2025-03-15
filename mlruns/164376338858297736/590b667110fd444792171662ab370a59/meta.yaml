@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/590b667110fd444792171662ab370a59/artifacts
+end_time: 1742053116938
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 590b667110fd444792171662ab370a59
+run_name: victorious-rook-689
+run_uuid: 590b667110fd444792171662ab370a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053110600
+status: 3
+tags: []
+user_id: felix

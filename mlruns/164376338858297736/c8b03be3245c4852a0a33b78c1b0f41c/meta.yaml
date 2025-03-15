@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/c8b03be3245c4852a0a33b78c1b0f41c/artifacts
+end_time: 1742053159313
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: c8b03be3245c4852a0a33b78c1b0f41c
+run_name: flawless-shoat-893
+run_uuid: c8b03be3245c4852a0a33b78c1b0f41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053152439
+status: 3
+tags: []
+user_id: felix

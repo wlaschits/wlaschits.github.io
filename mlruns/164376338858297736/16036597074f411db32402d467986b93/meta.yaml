@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/16036597074f411db32402d467986b93/artifacts
+end_time: 1742052280765
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 16036597074f411db32402d467986b93
+run_name: clumsy-goat-135
+run_uuid: 16036597074f411db32402d467986b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052274448
+status: 3
+tags: []
+user_id: felix

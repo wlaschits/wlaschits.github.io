@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742053480278
+current_stage: None
+description: null
+last_updated_timestamp: 1742053480278
+name: Best_Model
+run_id: a002a536316244478620852e7fcc5942
+run_link: null
+source: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/a002a536316244478620852e7fcc5942/artifacts/linear_regression_model
+status: READY
+status_message: null
+storage_location: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/a002a536316244478620852e7fcc5942/artifacts/linear_regression_model
+user_id: null
+version: 2

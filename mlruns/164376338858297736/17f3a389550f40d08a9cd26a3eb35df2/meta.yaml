@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/17f3a389550f40d08a9cd26a3eb35df2/artifacts
+end_time: 1742053862585
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 17f3a389550f40d08a9cd26a3eb35df2
+run_name: colorful-frog-534
+run_uuid: 17f3a389550f40d08a9cd26a3eb35df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053856161
+status: 3
+tags: []
+user_id: felix

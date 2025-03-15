@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/8b12952cd45642879704273cfac72ff0/artifacts
+end_time: 1742051768361
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 8b12952cd45642879704273cfac72ff0
+run_name: abrasive-worm-676
+run_uuid: 8b12952cd45642879704273cfac72ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742051761762
+status: 4
+tags: []
+user_id: felix

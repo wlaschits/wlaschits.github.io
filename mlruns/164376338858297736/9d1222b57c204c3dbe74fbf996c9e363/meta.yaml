@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/9d1222b57c204c3dbe74fbf996c9e363/artifacts
+end_time: 1742052127441
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 9d1222b57c204c3dbe74fbf996c9e363
+run_name: grandiose-toad-450
+run_uuid: 9d1222b57c204c3dbe74fbf996c9e363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052121065
+status: 3
+tags: []
+user_id: felix

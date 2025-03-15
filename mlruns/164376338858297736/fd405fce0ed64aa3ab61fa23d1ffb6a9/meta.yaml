@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/fd405fce0ed64aa3ab61fa23d1ffb6a9/artifacts
+end_time: 1742053817160
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: fd405fce0ed64aa3ab61fa23d1ffb6a9
+run_name: agreeable-seal-935
+run_uuid: fd405fce0ed64aa3ab61fa23d1ffb6a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053810765
+status: 3
+tags: []
+user_id: felix

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/dd388e60cd29477184989a3b7440f9cb/artifacts
+end_time: 1742052626817
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: dd388e60cd29477184989a3b7440f9cb
+run_name: defiant-hawk-273
+run_uuid: dd388e60cd29477184989a3b7440f9cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052620432
+status: 3
+tags: []
+user_id: felix

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/6659611f8424495ab400aa35b005e765/artifacts
+end_time: 1742053275245
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 6659611f8424495ab400aa35b005e765
+run_name: colorful-auk-224
+run_uuid: 6659611f8424495ab400aa35b005e765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053268847
+status: 3
+tags: []
+user_id: felix

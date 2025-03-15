@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/07dd18d286d64ffeb51ef992a7befd85/artifacts
+end_time: 1742052307810
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 07dd18d286d64ffeb51ef992a7befd85
+run_name: spiffy-cat-279
+run_uuid: 07dd18d286d64ffeb51ef992a7befd85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052301186
+status: 3
+tags: []
+user_id: felix

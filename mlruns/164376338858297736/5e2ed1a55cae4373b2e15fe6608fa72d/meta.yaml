@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/5e2ed1a55cae4373b2e15fe6608fa72d/artifacts
+end_time: 1742052649237
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 5e2ed1a55cae4373b2e15fe6608fa72d
+run_name: unequaled-cod-868
+run_uuid: 5e2ed1a55cae4373b2e15fe6608fa72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052642054
+status: 3
+tags: []
+user_id: felix

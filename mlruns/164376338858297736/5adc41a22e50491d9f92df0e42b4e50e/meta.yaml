@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/HTL/5BHIF/DSAI/Model-Deployment_Wlaschits_Arslan/wlaschits.github.io/mlruns/164376338858297736/5adc41a22e50491d9f92df0e42b4e50e/artifacts
+end_time: 1742053220965
+entry_point_name: ''
+experiment_id: '164376338858297736'
+lifecycle_stage: active
+run_id: 5adc41a22e50491d9f92df0e42b4e50e
+run_name: big-hare-845
+run_uuid: 5adc41a22e50491d9f92df0e42b4e50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742053214360
+status: 3
+tags: []
+user_id: felix
